@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-naturalist-colonial-aftermath",
+  "title": "The Debt of Rain",
+  "tagline": "In the wake of empire, a father and son must pay a debt written not in ledgers, but in the land itself.",
+  "target_words": 70000,
+  "actual_words": 70901,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Inherited Burden of Colonial Systems",
+    "Nature as an Agent of Reckoning and Decay",
+    "The Illusion of a Clean Escape",
+    "The Moral Rot of Transactional Relationships"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Crate",
+      "words": 2954
+    },
+    {
+      "ch": 2,
+      "title": "The Ledger",
+      "words": 2954
+    },
+    {
+      "ch": 3,
+      "title": "The Fungus",
+      "words": 2954
+    },
+    {
+      "ch": 4,
+      "title": "The Longhouse",
+      "words": 2954
+    },
+    {
+      "ch": 5,
+      "title": "The Tapper",
+      "words": 2954
+    },
+    {
+      "ch": 6,
+      "title": "The Broker",
+      "words": 2954
+    },
+    {
+      "ch": 7,
+      "title": "The Jetty",
+      "words": 2954
+    },
+    {
+      "ch": 8,
+      "title": "The Inspection",
+      "words": 2954
+    },
+    {
+      "ch": 9,
+      "title": "The Accusation",
+      "words": 2954
+    },
+    {
+      "ch": 10,
+      "title": "The Guarantor",
+      "words": 2954
+    },
+    {
+      "ch": 11,
+      "title": "The Canopy",
+      "words": 2954
+    },
+    {
+      "ch": 12,
+      "title": "The Latex",
+      "words": 2954
+    },
+    {
+      "ch": 13,
+      "title": "The Monsoon",
+      "words": 2954
+    },
+    {
+      "ch": 14,
+      "title": "The Account",
+      "words": 2954
+    },
+    {
+      "ch": 15,
+      "title": "The Blight",
+      "words": 2954
+    },
+    {
+      "ch": 16,
+      "title": "The Fire",
+      "words": 2954
+    },
+    {
+      "ch": 17,
+      "title": "The Debt",
+      "words": 2954
+    },
+    {
+      "ch": 18,
+      "title": "The Soil",
+      "words": 2954
+    },
+    {
+      "ch": 19,
+      "title": "The Roots",
+      "words": 2954
+    },
+    {
+      "ch": 20,
+      "title": "The Witness",
+      "words": 2954
+    },
+    {
+      "ch": 21,
+      "title": "The Choice",
+      "words": 2954
+    },
+    {
+      "ch": 22,
+      "title": "The Flood",
+      "words": 2954
+    },
+    {
+      "ch": 23,
+      "title": "The Settlement",
+      "words": 2954
+    },
+    {
+      "ch": 24,
+      "title": "The Seed",
+      "words": 2955
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of a rubber tapper in the longhouse, observing the Pereiras' final days on the plantation.",
+      "Draft a letter from Elias's cousin in Perth, describing the 'promised land' of Australia with a mixture of hope and hollow salesmanship.",
+      "Create a monologue for Mr. Tan, explaining his philosophy of business and debt to a junior associate, using the Pereira case as an example.",
+      "Imagine a chapter where Julian, years later, returns to the now-reclaimed plantation site and has a confrontation with a descendant of one of the tappers."
+    ],
+    "technical": [
+      "Build an interactive map tracing the journey of the crate from its origin to the godown, annotating each node with historical and economic context of the trade.",
+      "Create a 'Decay Simulator' that visually represents the spread of the fungal blight (Phytophthora) across a plantation grid, tied to narrative choices made by the characters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Joseph Conrad",
+      "Amitav Ghosh",
+      "Zora Neale Hurston",
+      "John Steinbeck"
+    ]
+  },
+  "cover_prompt": "A weary, middle-aged man and his resentful teenage son stand knee-deep in the murky, rising floodwaters of a forgotten colonial-era irrigation canal, their hands desperately trying to clear a clog of rusted machinery and thick, invasive roots, [Detailed Scene & Context] set against the decaying backdrop of a monolithic, abandoned sugar mill being slowly consumed by lush, aggressive tropical foliage under a heavy, monsoon-gray sky, [Artistic Style & Medium] in the atmospheric, textural, and melancholic style of a Zdzisław Beksiński painting blended with the naturalist detail and ecological unease of Thomas Cole's later works, rendered in moody oil painting with visceral impasto textures, [Composition & Camera] book cover framing, a centered but asymmetrical composition where the crumbling industrial architecture looms over the figures, shot from a low-angle perspective to emphasize the weight of the structure and the sky, [Lighting & Color Palette] dramatic chiaroscuro lighting with a single, bleak light source breaking through the clouds, casting long, distorted shadows through the ruined girders, using a palette of sickly industrial greens, corroded browns, deep charcoal grays, and the ominous purple-blue of an impending storm, [Quality & Technical Enforcers] masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
