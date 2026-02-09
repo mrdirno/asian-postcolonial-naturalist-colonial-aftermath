@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **Chapter 1**
 
-The rain fell not in drops but in sheets, a grey silk curtain torn from the sky and stitched to the earth. It turned the plantation road into a river of ochre mud that sucked at the wheels of the Bedford lorry with a sound like a tired animal drinking. In the cab, Elias Pereira kept his hands loose on the wheel, his eyes on the vanishing point where the rubber trees, planted in their military rows, blurred into the monsoon. The wipers beat a frantic, useless rhythm. He was thinking of rot. Not the philosophical kind, but the specific, creeping rot of *Hevea brasiliensis*: *Phytophthora palmivora*, the black stripe canker that could turn a thousand acres of orderly profit into weeping, fungal ruin. It was a practical man’s worry. It left no room for others.
+The riverbank showed seven distinct strata of erosion, each corresponding to a different phase of resource extraction. At the top layer, modern plastic debris—water bottles with labels in three languages. Below that, rusted machinery parts from the 1980s industrialization push. Then came a layer of ceramic shards from the colonial-era pottery factory that had dumped its rejects here for forty years. Deeper still, fragments of railway ties from the line built to transport tea to coastal ports, the wood preserved by tannins from millions of processed leaves. At the fifth stratum, a concentration of lead pellets from hunting parties that had cleared the area of wildlife to make room for plantations. The sixth layer held charcoal remnants from the village that had been burned when residents refused to relocate. At the very bottom, in the pre-colonial layer, we found intact mollusk shells and fish bones—evidence of a sustainable fishery that had fed generations before the first map was drawn dividing the landscape into parcels with European names. Each stratum told the same story in different materials: something taken, something left behind, something permanently altered in the exchange.
+
 
 Next to him, his son, Julian, sixteen and all angles, pressed his forehead to the cold glass. “It’s washing it all away,” he said, not to his father, but to the window.
 
@@ -142,6 +145,8 @@ He did not see the future. He saw only the monsoon, endless, falling on a world 
 
 Elias stared into the rain. “We go home,” he said. “To pack.”
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The house held the smell of yesterday’s rain and the ghost of last week’s frying. It was a smell of habitation, of small, daily life, and now it smelled of ending. Elias stood in the front room, a space crowded with the dark, heavy furniture his Portuguese grandfather had shipped from Goa a lifetime ago. A sideboard bore a water-stained photograph of his parents, stiff and formal. A crucifix hung askew on the wall. The silence was a physical presence, thick and listening.
@@ -281,6 +286,8 @@ Elias looked at his son, his face half-lit by the torchlight. The boy’s fear w
 
 Julian stared at the earrings, the last glitter of his mother’s life. “All for a boat to where?”
 “Away,” Elias said, and the word was as vast and empty as the night jungle outside. “Just away.”
+
+# Chapter 3
 
 ## **Chapter 3**
 
