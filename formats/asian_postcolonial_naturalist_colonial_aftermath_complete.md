@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The riverbank showed seven distinct strata of erosion, each corresponding to a different phase of resource extraction. At the top layer, modern plastic debris—water bottles with labels in three languages. Below that, rusted machinery parts from the 1980s industrialization push. Then came a layer of ceramic shards from the colonial-era pottery factory that had dumped its rejects here for forty years. Deeper still, fragments of railway ties from the line built to transport tea to coastal ports, the wood preserved by tannins from millions of processed leaves. At the fifth stratum, a concentration of lead pellets from hunting parties that had cleared the area of wildlife to make room for plantations. The sixth layer held charcoal remnants from the village that had been burned when residents refused to relocate. At the very bottom, in the pre-colonial layer, we found intact mollusk shells and fish bones—evidence of a sustainable fishery that had fed generations before the first map was drawn dividing the landscape into parcels with European names. Each stratum told the same story in different materials: something taken, something left behind, something permanently altered in the exchange.
+Kuala Lumpur’s monsoon heat pressed down, a wet wool blanket. In the shadow of the old British clock tower, a child’s plastic sandal lay upturned in the gutter, filling slowly with rust-colored water from a broken main. The city breathed around it, indifferent.
+
 
 
 Next to him, his son, Julian, sixteen and all angles, pressed his forehead to the cold glass. “It’s washing it all away,” he said, not to his father, but to the window.
